@@ -6,7 +6,7 @@
 - [Processori](processori.md)
 
 ## Periferiche
-
+- [Tastiere](periferiche/tastiere.md)
 
 
 <br>
